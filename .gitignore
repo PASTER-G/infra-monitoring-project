@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+build/
+dist/
